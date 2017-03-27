@@ -14,6 +14,8 @@ As written, the sensor is wired up to an Arduino Nano, which is in turn plugged 
 
 http://makerhive.proboards.com/thread/641/low-cost-uv-radiometer
 
+https://learn.sparkfun.com/tutorials/ml8511-uv-sensor-hookup-guide
+
 http://makerhive.proboards.com/thread/1045/help-circuit-schematic
 
 https://goo.gl/photos/gHvPpna38RmeMD9JA
