@@ -2,6 +2,8 @@
 
 This is a very simple, low cost, bare bones DLP UV Radiometer that measures the UV output of a DLP projector in mW/cm^2.  It is a useful tool for any DLP UV resin printer as it helps by measuring the UV output and by knowing your UV output and the Critical Energy required to properly cure a UV resin, the end user can calculate how many seconds exposure he or she will need.
 
+![MakerJuice](https://cdn.shopify.com/s/files/1/1224/0904/t/3/assets/logo.png?12462862481027598830 "MakerJuice Labs")
+
 I developed this with the initial intent to use it to characterize [MakerJuice UV Resins](http://www.makerjuice.com/) and decided it might be prudent to allow others to build this too and expand on it.
 
 Many UV resin manufacturers supply the Critical Energy required to properly cure their resins at a given layer height.  This number is typically supplied in mJ/cm^2.  If the end user knows their DLP UV output in mW/cm^2, they can simply apply the following forumla to find out how many seconds exposure they will need for their particular setup:
