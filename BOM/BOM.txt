@@ -1,0 +1,9 @@
+Arduino Nano:  
+	Any Nano clone will do.
+
+UV Sensor:  SparkFun UV Sensor Breakout - ML8511
+	Sparkfun:  https://www.sparkfun.com/products/12705
+	Aliexpress:  Search for ML8511
+	Ebay:  Search for ML8511
+
+Telephone or Ethernet cable / wire:  18 inches
