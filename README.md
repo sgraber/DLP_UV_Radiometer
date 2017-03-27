@@ -10,6 +10,10 @@ Then simply set your layer height and exposure time and the end user should be i
 
 As written, the sensor is wired up to an Arduino Nano, which is in turn plugged into either a computer or a smartphone with a USB-OTG cable.  To use it, simply place the sensor at the appropriate distance from the DLP light source and either use the Ardino IDI serial terminal to obtain the output reading or plug it into your smartphone using a USB-OTG cable and run something like DroidTerm to view your results.
 
+# Hookup Guide
+
+![Wiring](/Arduino/ML8511_UV_Hookup.png?raw=true "Sparkfun Redboard and ML8511 Sensor")
+
 # Development Links
 
 http://makerhive.proboards.com/thread/641/low-cost-uv-radiometer
